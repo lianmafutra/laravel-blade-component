@@ -8,6 +8,13 @@
           "LianMafutra\\Component\\": "src/"
       }
   },
+  "extra": {
+   "laravel": {
+       "providers": [
+           "TomSix\\Components\\LibraryServiceProvider"
+       ]
+   }
+},
     "authors": [
         {
             "name": "Lian Mafutra",
