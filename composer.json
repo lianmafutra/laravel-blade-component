@@ -1,0 +1,18 @@
+{
+    "name": "lianmafutra/lm-component",
+    "description": "laravel component admin lte",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+      "psr-4": {
+          "LmComponent\\": "src/"
+      }
+  },
+    "authors": [
+        {
+            "name": "Lian Mafutra",
+            "email": "lianmafutra@gmail.com"
+        }
+    ],
+    "require": {}
+}
