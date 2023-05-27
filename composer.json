@@ -11,7 +11,7 @@
   "extra": {
    "laravel": {
        "providers": [
-           "TomSix\\Components\\LibraryServiceProvider"
+           "LianMafutra\\Component\\LibraryServiceProvider"
        ]
    }
 },
